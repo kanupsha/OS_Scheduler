@@ -1,0 +1,4 @@
+
+./computer.exe <./test.txt > ./comp.out
+./computer.exe <./test.txt | wc
+

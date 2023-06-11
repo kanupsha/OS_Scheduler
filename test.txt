@@ -1,0 +1,1 @@
+1 comp.in 30 1 comp.in 60 1 comp.in 90 1 comp.in 120 1 comp.in 150 4 5 
